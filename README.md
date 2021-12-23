@@ -1,0 +1,2 @@
+# barangay-records-management-system
+ Our system has the most proponents that would like to introduce the system of document management and keeping track of records during this approach wherever computers are primarily the medium that reduces the consumption on paper. This project/program has an observation for document papers that are requested in the barangay unit but all of the relevant data are encoded to a program application using HTML, CSS, AngularJS, & Restful API in the Backend of PHP with the Usage of MySQL Database in our Web Application System.
